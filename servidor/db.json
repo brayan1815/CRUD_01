@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Pedro",
+      "telefono": "3103080024",
+      "ciudad": "Florida",
+      "cargo": "2",
+      "estado_civil": "1",
+      "id": 4
+    },
+    {
+      "nombre": "Pedro",
+      "telefono": "3103080024",
+      "ciudad": "Florida",
+      "cargo": "2",
+      "estado_civil": "1",
+      "id": 5
+    },
+    {
+      "nombre": "Mario",
+      "telefono": "3103080024",
+      "ciudad": "Florida",
+      "cargo": "2",
+      "estado_civil": "1",
+      "id": 6
+    }
+  ],
+  "cargos": [
+    {
+      "nombre_cargo": "celador",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre_cargo": "Instructor"
+    }
+  ],
+  "estados_civiles": [
+    {
+      "id": 1,
+      "estado": "soltero"
+    },
+    {
+      "id": 2,
+      "estado": "casado"
+    }
+  ]
+}

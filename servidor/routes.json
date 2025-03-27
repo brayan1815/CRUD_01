@@ -1,0 +1,4 @@
+{
+    "/usuarios/":"/users/",
+    "/cargos/:id":"/burden/:id"
+}
