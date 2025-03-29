@@ -1,4 +1,11 @@
 {
     "/usuarios/":"/users/",
-    "/cargos/:id":"/burden/:id"
+    "/usuarios/:id":"/users/:id",
+    "/cargos/":"/job_titles/",
+    "/cargos/:id":"/job_titles/:id",
+    "/estados_civiles/":"/marital_status/",
+    "/estados_civiles/:id":"/marital_status/:id",
+    "/ciudades/":"/city/",
+    "/ciudades/:id":"/city/:id"
+
 }

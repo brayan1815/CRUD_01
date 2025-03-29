@@ -1,31 +1,27 @@
 {
-  "usuarios": [
+  "users": [
     {
-      "nombre": "Pedro",
-      "telefono": "3103080024",
-      "ciudad": "Florida",
-      "cargo": "2",
-      "estado_civil": "1",
-      "id": 4
-    },
-    {
-      "nombre": "Pedro",
-      "telefono": "3103080024",
-      "ciudad": "Florida",
-      "cargo": "2",
-      "estado_civil": "1",
+      "nombre": "Antonio",
       "id": 5
     },
     {
       "nombre": "Mario",
       "telefono": "3103080024",
-      "ciudad": "Florida",
-      "cargo": "2",
-      "estado_civil": "1",
+      "ciudad_id": 1,
+      "cargo_id": 1,
+      "estado_civil_id": 2,
       "id": 6
+    },
+    {
+      "nombre": "Antonela",
+      "telefono": "3123651526",
+      "ciudad_id": "1",
+      "cargo_id": "1",
+      "estado_civil_id": "2",
+      "id": 7
     }
   ],
-  "cargos": [
+  "job_titles": [
     {
       "nombre_cargo": "celador",
       "id": 1
@@ -35,7 +31,7 @@
       "nombre_cargo": "Instructor"
     }
   ],
-  "estados_civiles": [
+  "marital_status": [
     {
       "id": 1,
       "estado": "soltero"
@@ -43,6 +39,16 @@
     {
       "id": 2,
       "estado": "casado"
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "nombre": "Piedecuesta"
+    },
+    {
+      "id": 2,
+      "nombre": "Floarida"
     }
   ]
 }
